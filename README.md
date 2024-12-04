@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: exceeding the maximum recursion depth. The `bug.py` file contains the erroneous code. The `bugSolution.py` provides a corrected version that avoids the stack overflow.
